@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tianrui Zhang"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Computer Science Undergraduate Student at SJTU"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
