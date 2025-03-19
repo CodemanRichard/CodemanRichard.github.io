@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Tianrui Zhang"
 title_separator          : "-"
 name                     : &name "Tianrui Zhang"
-description              : &description "Computer Science Undergraduate Student at SJTU"
+description              : &description "Homepage of Tianrui Zhang"
 url                      : https://codemanrichard.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CodemanRichard/CodemanRichard.github.io"
@@ -23,13 +23,13 @@ repository               : "CodemanRichard/CodemanRichard.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tianrui Zhang"
+  pronouns         : "he/him"  
+  bio              : "Computer Science Undergraduate Student at SJTU"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1621456391@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
