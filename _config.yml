@@ -22,7 +22,7 @@ repository               : "CodemanRichard/CodemanRichard.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ds160.png"
   name             : "Tianrui Zhang"
   pronouns         : # "he/him"  
   bio              : "Computer Science Undergraduate Student at SJTU"
