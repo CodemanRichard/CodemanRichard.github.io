@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello there 👋This is Tianrui Zhang, an undergraduate student majoring computer science at Shanghai Jiao Tong University.
+Hello there 👋This is Tianrui Zhang, I earned my bachelor degree at Shanghai Jiao Tong University and am now studying for master of computer science at Brown University.
 
 About myself
 ======
-My interests are mostly web development. I'm a Django contributor and has made some toy projects in this direction. Apart from web, I'm also good at AI, from CNN to LLM, from training a model to building a debugging agent with the help of LLM.
+My interests are mostly web development. I have comprehensive experience in backend, frontend and mobile application development.
 
-Maybe some more?
-======
-Yeah I'm new to personal homepage development and am still wondering what information I should add here :) The top bars need some update, too.
+My main focus is backend development. I like building robust backend service with Java or Python. I've made some cool projects using Flask, Django and Spring Boot. Apart from these major frameworks, I'm also familiar with databases like MySQL and Redis, and distributed system's components like Kafka and Spring Cloud.
